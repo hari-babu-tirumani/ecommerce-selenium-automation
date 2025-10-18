@@ -1,7 +1,7 @@
 # Stampin' Up Website Test Automation Suite
 
 ## Overview
-This is a comprehensive C# test automation suite for testing the Stampin' Up website (www.stampinup.com) using NUnit framework and Selenium WebDriver. The test suite covers account creation, user profile management, and authentication scenarios as specified in the SDET assessment requirements.
+This is a comprehensive C# test automation suite for testing the ecommerce website (www.stampinup.com) using NUnit framework and Selenium WebDriver. The test suite covers account creation, user profile management, and authentication scenarios as specified in the SDET assessment requirements.
 
 ## Project Structure
 ```
@@ -376,3 +376,4 @@ This test suite fulfills all requirements for the Stampin' Up SDET assessment:
 ✅ **Complete Documentation**: Implementation and usage guides  
 
 ---
+
